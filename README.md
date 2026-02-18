@@ -1,1 +1,1 @@
-All lab documents for MTRE4820 - Machine Learning for Robot Perception
+All lab documents for MTRE4820 - Machine Learning for Robot Perception.
